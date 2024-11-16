@@ -1,12 +1,12 @@
 {
   "name": "@zaikoxander/react-map-render",
   "version": "1.0.2",
-  "description": "",
+  "description": "A simple React component that helps you render arrays using a render prop pattern.",
   "main": "dist/Map.js",
   "scripts": {
     "build": "tsc && babel src --out-dir dist --extensions \".ts,.tsx\""
   },
-  "keywords": [],
+  "keywords": ["react", "map", "render", "component", "helper"],
   "author": "ZaikoXander",
   "license": "ISC",
   "dependencies": {
